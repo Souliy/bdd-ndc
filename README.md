@@ -1,7 +1,7 @@
 # Les noms des colonnes
-- v2x_polyarchy = indice qui représente la liberté d'expression, participation, justice éléctorale, etc.
-- v2cscnsult = indice qui représente consultation des parties prenantes dans l'élaboration des politiques
-- total_financement = financement climatique 
+- v2x_polyarchy = indice qui représente la liberté d'expression, la participation, la justice éléctorale, etc.
+- v2cscnsult = indice qui représente la consultation des parties prenantes dans l'élaboration des politiques
+- total_financement = financement climatique pour l'atténuation et l'adaptation 
 - ffuel = somme des rentes tirées du charbon, du pétrole et du gaz naturel
 - gini_index = coefficient de gini
 - ambition = ambition de la NDC selon Robiou Du Pont et Meinshausen (2018)
